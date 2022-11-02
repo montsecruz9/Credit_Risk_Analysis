@@ -1,5 +1,5 @@
 # Credit Risk Analysis
-Using machine learning to predict credit risk
+
 ## Overview of the Analysis
 The purpose of this project is to use six different machine learning algorithms to predict credit risk. Credit risk has an unbalanced classification problem, so different techniques are going to be used to train and evaluate models with unbalanced classes, and we are gonna determine which of the different models works best for our dataset. 
 ## Results. 
